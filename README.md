@@ -15,14 +15,14 @@ This repository contains the [Makeability Lab's website](https://makeabilitylab.
 * [Makeability Lab Data](#makeability-lab-data)
 * [Makeability Lab API](#makeability-lab-api)
 * [Manual Installation](#manual-installation)
-* [Contributing](#contributing)
+* [Contrbuiting](#contributing)
 * [Troubleshooting](#troubleshooting)
 
 # Dev Prereqs
 While the instructions below walk you through a step-by-step process to configure your machine for developing the Makeability Lab website, here's a summary of the tools we use:
-- Docker
-- PyCharm
-- Git
+- Docker.
+- PyCharm.
+- Git.
 
 # Docker Installation (Mac)
 1. If you don't have Docker yet, you can download it [here](https://store.docker.com/search?type=edition&offering=community). We use the Community Edition. Open up the application. Run `docker version` to make sure that it is running. 
